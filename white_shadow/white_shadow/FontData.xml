@@ -728,7 +728,7 @@
     <glyph ch="■" code="25a0" bm="0" origin="330,836" size="30x42" aw="24" lsb="-3" />
     <!-- Keen uses wrong charcode for unknown character placeholder! -->
     <!-- it must be \uFFFD, but in SE it is \u25A1 -->
-    <!-- <glyph ch="□" code="25a1" bm="0" origin="210,882" size="30x42" aw="24" lsb="-3" /> -->
+    <!-- <glyph ch="□" code="25a1" bm="0" origin="360,836" size="30x42" aw="24" lsb="-3" /> -->
     <glyph ch="□" code="25a1" bm="0" origin="210,924" size="30x42" aw="24" lsb="-3" />
     <!-- I just swapped glyphs to those symbols. if you need a "White Square" symbol - use \uFFFD. -->
     <glyph ch="▪" code="25aa" bm="0" origin="390,836" size="30x42" aw="24" lsb="-3" />
@@ -821,7 +821,7 @@
     <glyph ch="ﬁ" code="fb01" bm="0" origin="150,924" size="30x42" aw="24" lsb="-3" />
     <glyph ch="ﬂ" code="fb02" bm="0" origin="180,924" size="30x42" aw="24" lsb="-3" />
 	<!-- <glyph ch="�" code="fffd" bm="0" origin="210,924" size="30x42" aw="24" lsb="-3" /> -->
-	<glyph ch="�" code="fffd" bm="0" origin="210,882" size="30x42" aw="24" lsb="-3" />
+	<glyph ch="�" code="fffd" bm="0" origin="360,836" size="30x42" aw="24" lsb="-3" />
     <!--spacers-->
     <glyph ch="" code="e070" bm="0" origin="0,0" size="1x1" aw="0" lsb="0" />
     <glyph ch="" code="e071" bm="0" origin="0,0" size="1x1" aw="1" lsb="0" />
